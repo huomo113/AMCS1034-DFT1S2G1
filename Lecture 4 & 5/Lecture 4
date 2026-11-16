@@ -1,0 +1,4 @@
+text = ' Python programming is fun! '
+result = text.split('i')
+print(repr(result))
+print(repr(text))
