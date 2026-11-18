@@ -1,0 +1,20 @@
+[
+    {
+        "vehicle_id": "V0001",
+        "registration_number": "CMC0123",
+        "vehicle_model": "M",
+        "owner_name": "JAMES",
+        "owner_phone": "012-562163",
+        "owner_email": "HHH@GMAIL.COM",
+        "owner_address": "NO1, JALAN JJJ"
+    },
+    {
+        "vehicle_id": "V0002",
+        "registration_number": "MNB3215",
+        "vehicle_model": "MNB3652",
+        "owner_name": "MNBVCX",
+        "owner_phone": "0142536987",
+        "owner_email": "HUJ@GMAIL.COM",
+        "owner_address": "NO99, JJJ"
+    }
+]
